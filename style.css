@@ -1,0 +1,30 @@
+body{
+margin: 0;
+padding: 0px;
+}
+.shape{
+border: 1px solid black;
+position: absolute;
+overflow: hidden;
+opacity:0.8;
+}
+.container
+{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+input
+{
+	margin-top: 3px;
+	border: 1px solid grey;
+	border-radius: 0 0 0 0px;
+	outline: none;
+}
+
+input:active
+{
+	outline: 1px solid #04d9ff;
+}
+
+
+
